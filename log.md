@@ -12,12 +12,8 @@ https://takeuforward.org/data-structure/stock-buy-and-sell/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3741646/o-n-complexity-easiest-approach/
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: 11-7-2023
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://takeuforward.org/data-structure/reverse-words-in-a-string/
+2. https://leetcode.com/problems/reverse-words-in-a-string/solutions/3593904/5-line-simple-solution-with-full-explanation/
