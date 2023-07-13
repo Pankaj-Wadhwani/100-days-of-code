@@ -19,7 +19,13 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3741646/
 2. https://leetcode.com/problems/reverse-words-in-a-string/solutions/3593904/5-line-simple-solution-with-full-explanation/
 
 
-### Day 3: 13-7-2023
+### Day 3: 12-7-2023
 
 **Link(s) to work**
 1. https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+
+
+### Day 4: 13-7-2023
+
+**Link(s) to work**
+1. https://leetcode.com/problems/largest-odd-number-in-string/solutions/2757474/java-easy-solution/
