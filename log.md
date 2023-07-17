@@ -36,3 +36,14 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3741646/
 **Link(s) to work**
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://takeuforward.org/data-structure/reverse-a-linked-list/
+
+### Day 5: 14-7-2023
+
+**Link(s) to work**
+1. https://leetcode.com/problems/reverse-linked-list/description/
+
+### Day 6: 17-7-2023
+
+**Link(s) to work**
+1. https://leetcode.com/problems/middle-of-the-linked-list/description/
+2. https://takeuforward.org/data-structure/reverse-a-linked-list/
