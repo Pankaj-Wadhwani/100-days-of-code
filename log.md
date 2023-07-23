@@ -47,3 +47,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3741646/
 **Link(s) to work**
 1. https://leetcode.com/problems/middle-of-the-linked-list/description/
 2. https://takeuforward.org/data-structure/reverse-a-linked-list/
+
+### Day 7: 24-7-2023
+
+**Link(s) to work**
+1. https://leetcode.com/problems/rotate-string/
+2. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
