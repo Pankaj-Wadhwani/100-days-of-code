@@ -53,3 +53,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3741646/
 **Link(s) to work**
 1. https://leetcode.com/problems/rotate-string/
 2. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+### Day 8: 27-7-2023
+
+**Link(s) to work**
+1. https://leetcode.com/problems/longest-common-prefix/
+2. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
